@@ -1,0 +1,2 @@
+module Cantrol.structure {
+}
